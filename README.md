@@ -10,7 +10,9 @@
 -  What is the best way to contact me? [Discord](https://discord.com/users/481068576363773972)
 -  Pronouns: He/Him
 -  Age: 17
--  https://top.gg/api/widget/1089391846054174820.svg
+-  <a href="https://top.gg/bot/1089391846054174820">
+  <img src="https://top.gg/api/widget/1089391846054174820.svg">
+</a>
 
 ---
 
