@@ -12,7 +12,7 @@
 -  Age: 17
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/481068576363773972)](https://discord.com/users/481068576363773972)
-[![Discord Bots](https://top.gg/api/widget/1133516195983790081.svg)](https://top.gg/bot/1133516195983790081)
+[![Discord Bots](https://top.gg/api/widget/1160564114364567654.svg)](https://top.gg/bot/1160564114364567654)
 
 ---
 
