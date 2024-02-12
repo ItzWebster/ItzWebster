@@ -6,10 +6,10 @@
 ## I'm a Discord Bot Developer and Im a high schooler
    
 -  I am experienced in Discord.JS 
--  2023 Goals: Contribute to more open source projects and upgrading my [Discord Bot](https://discord.com/oauth2/authorize?client_id=1203750611192119326&permissions=1945627743&scope=bot%20applications.commands)
+-  2024 Goals: geting my [Discord Bot](https://discord.com/oauth2/authorize?client_id=1203750611192119326&permissions=1945627743&scope=bot%20applications.commands) verified
 -  What is the best way to contact me? [Discord](https://discord.com/users/481068576363773972)
 -  Pronouns: He/Him
--  Age: 17
+-  Age: 18
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/481068576363773972)](https://discord.com/users/481068576363773972)
 [![Discord Bots](https://top.gg/api/widget/1203750611192119326.svg)](https://top.gg/bot/1203750611192119326)
