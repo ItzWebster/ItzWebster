@@ -15,9 +15,7 @@
 <a href="https://top.gg/bot/1245965408737951905">
   <img src="https://top.gg/api/widget/1245965408737951905.svg">
 </a>
-
 <a href="https://oliverbot.xyz">
-  <img src="https://oliverbot.xyz">
 </a>
 
 
