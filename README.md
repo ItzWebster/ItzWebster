@@ -13,7 +13,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/481068576363773972)](https://discord.com/users/481068576363773972)
 <a href="https://top.gg/bot/1245965408737951905">
-  <img src="https://top.gg/api/widget/1245965408737951905.svg">
+  <img src="https://discord.c99.nl/widget/theme-1/1245965408737951905.png">
 </a>
 
 
