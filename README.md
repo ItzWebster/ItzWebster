@@ -15,7 +15,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/481068576363773972.png">
 </a>
 <a href="https://top.gg/bot/1245965408737951905">
-  <img src="https://discord.c99.nl/widget/theme-1/1245965408737951905.png">
+  <img src="https://discord.c99.nl/widget/theme-4/1245965408737951905.png">
 </a>
 
 
