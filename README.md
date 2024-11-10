@@ -3,7 +3,7 @@
 
 
 
-## I'm a Discord Bot Developer and Im a high schooler
+## I'm a Discord Bot Developer and Im a college student 
    
 -  I am experienced in Discord.JS 
 -  2025 Goals: geting my [Discord Bot](https://oliverbot.xyz/invite) over 500 servers
