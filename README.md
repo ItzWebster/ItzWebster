@@ -6,7 +6,7 @@
 ## I'm a Discord Bot Developer and Im a high schooler
    
 -  I am experienced in Discord.JS 
--  2024 Goals: geting my [Discord Bot](https://oliverbot.xyz/invite) over 500 servers
+-  2025 Goals: geting my [Discord Bot](https://oliverbot.xyz/invite) over 500 servers
 -  What is the best way to contact me? [Discord](https://discord.com/users/481068576363773972)
 -  Pronouns: He/Him
 -  Age: 18
