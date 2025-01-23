@@ -11,7 +11,7 @@
 -  Pronouns: He/Him
 -  Age: 19
 <a href="https://discord.com/users/481068576363773972">
-  <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true&theme=black&bg=040505&animated=true&hideDiscrim=false&borderRadius=30px&&idleMessage=I'm not currently doing anything!">
+  <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true&theme=black&bg=040505&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=I'm not currently doing anything!">
   </a>
   <a href="https://top.gg/bot/1315121434112167946">
   <img src="https://top.gg/api/widget/1315121434112167946.svg">
