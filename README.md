@@ -13,6 +13,4 @@
 <a href="https://discord.com/users/481068576363773972">
   <img src="https://lanyard.cnrad.dev/api/481068576363773972">
   </a>
-  <a href="https://top.gg/bot/1315121434112167946">
-  <img src="https://top.gg/api/widget/1315121434112167946.svg">
-</a>
+ 
