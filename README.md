@@ -10,7 +10,7 @@
 -  What is the best way to contact me? [Discord](https://discord.com/users/481068576363773972)
 -  Pronouns: He/Him
 -  Age: 19
-<a href="https://discord.com/users/481068576363773972">
+<a href="https://itzwebster.dev/discord">
   <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true">
   </a>
  
