@@ -7,7 +7,7 @@
    
 -  I am experienced in Discord.JS 
 -  2025 Goals: geting my [Discord Bot](https://discoria.xyz/invite) over 500 servers
--  What is the best way to contact me? [Discord](https://discord.com/users/481068576363773972)
+-  What is the best way to contact me? [Discord](https://itzwebster.dev/discord)
 -  Pronouns: He/Him
 -  Age: 19
 <a href="https://itzwebster.dev/discord">
