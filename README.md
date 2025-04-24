@@ -11,6 +11,6 @@
 -  Pronouns: He/Him
 -  Age: 19
 <a href="https://discord.com/users/481068576363773972">
-  <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972">
+  <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true">
   </a>
  
