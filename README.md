@@ -9,7 +9,7 @@
 -  2025 Goals: geting my [Discord Bot](https://discoria.xyz/invite) over 500 servers
 -  What is the best way to contact me? [Discord](https://itzwebster.dev/discord)
 -  Pronouns: He/Him
--  Age: 19
+-  Age: 20
 <a href="https://itzwebster.dev/discord">
   <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true">
   </a>
