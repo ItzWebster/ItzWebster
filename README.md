@@ -6,7 +6,7 @@
 ## I'm a Discord Bot Developer and Im a college student 
    
 -  I am experienced in Discord.JS 
--  2025 Goals: geting my [Discord Bot](https://discoria.xyz/invite) over 500 servers
+-  2026 Goals: geting my [Discord Bot](https://top.gg/bot/1409032825012879452/invite) over 500 servers
 -  What is the best way to contact me? [Discord](https://itzwebster.dev/discord)
 -  Pronouns: He/Him
 -  Age: 20
