@@ -6,7 +6,7 @@
 ## I'm a Discord Bot Developer and Im a college student 
    
 -  I am experienced in Discord.JS 
--  2026 Goals: geting my [Discord Bot](https://top.gg/bot/1409032825012879452/invite) over 500 servers
+-  2026 Goals: geting my [Discord Bot](https://top.gg/bot/1523415590490865894/invite) over 500 servers
 -  What is the best way to contact me? [Discord](https://itzwebster.dev/discord)
 -  Pronouns: He/Him
 -  Age: 20
@@ -14,8 +14,8 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/481068576363773972?showDisplayName=true">
   </a>
 
-<a href="https://top.gg/bot/1409032825012879452">
-  <img src="https://top.gg/api/widget/1409032825012879452.svg">
+<a href="https://top.gg/bot/1523415590490865894">
+  <img src="https://top.gg/api/widget/1523415590490865894">
 </a>
 
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S01E7J9N)
